@@ -2,7 +2,7 @@ import React from 'react';
 
 function Navbar(){
     return (
-    <header className="Navbar">Facebook</header>
+    <header className="Navbar">My Post book</header>
     )
 
 }
